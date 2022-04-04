@@ -193,6 +193,7 @@ describe ("firstVowel", () => {
 // first I am going to create a function called firtVowel
 // Then I am going to have it take in a string loop through it so it can idenitfy the first vowel of the value
 // I will have it return a new string with new values
+// I recived help with this question
 
 const firstVowel = (string) => {
     for (i=0; i < string.length; i++) {
